@@ -18,7 +18,6 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
 public class RegistrationActivity extends AppCompatActivity {
-
     private EditText registerEmail;
     private EditText registerPsswd;
     private Button registerBtn;
